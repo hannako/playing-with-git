@@ -2,3 +2,5 @@ This is another fascinating text file.
 
 And now I’ve updated it.
 
+And now I’ve updated it again.
+
