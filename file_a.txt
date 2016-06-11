@@ -1,2 +1,2 @@
 This is file A
-Some text
+Some text which is only in my_first_branch
